@@ -1,4 +1,4 @@
-# amplify_feeds
+# amplify feeds
 all the rss feeds used by amplify
 
 I had a lot of trouble finding a good source for them, so here's one for anyone who might need it. 
